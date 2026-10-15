@@ -212,7 +212,7 @@ Use genuine screenshots from the running application so visitors can evaluate th
 
 ## 👨‍💻 Developer
 
-**B. Parveen Bhanu**
+**Bandisula Parveen Bhanu**
 
 B.Tech — Computer Science Engineering (Cyber Security)  
 Rajeev Gandhi Memorial College of Engineering & Technology, Andhra Pradesh
